@@ -1,0 +1,12 @@
+Part 1: Sorting Integer Arrays:
+Total number of Integers: 20000
+Bubble Sort Total Time: 339803833 nanoseconds
+Selection Sort Total Time: 133601333 nanoseconds
+Insertion Sort Total Time: 19880875 nanoseconds
+
+Part 2: Sorting String Arrays:
+Total number of Strings: 10000
+Bubble Sort Total Time for Strings: 350471334 nanoseconds
+Selection Sort Total Time for Strings: 133402875 nanoseconds
+Insertion Sort Total Time for Strings: 93329792 nanoseconds
+Collection Sort Total Time for Strings: 4645083 nanoseconds
