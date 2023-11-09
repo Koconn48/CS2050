@@ -1,0 +1,2 @@
+Number of Nodes: 8991
+Tree Height: 36 (does not match max possible nodes)
